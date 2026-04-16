@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -23,6 +23,6 @@
     "sequelize": "^6.37.8"
   },
   "devDependencies": {
-    "node": "^3.1.14"
+    "nodemon": "^3.1.14"
   }
 }
